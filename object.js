@@ -22,5 +22,4 @@ const person2 = person;
 person.age = 36;
 
 console.log(person);
-
 // console.log(person2);
